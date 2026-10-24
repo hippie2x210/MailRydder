@@ -1,4 +1,4 @@
-<#
+﻿<#
   MailRydder-Exchange - rydder Exchange/Outlook-innboksen trygt.
   Støtter Microsoft 365, Exchange Online og Outlook.com via Microsoft Graph API.
 
